@@ -1,1 +1,0 @@
-import{T as s,S as e,A as t,t as r,x as o,y as c,Q as p}from"./entry.420ae241.js";import{b as n}from"./VCard.416b97c7.js";const d={__name:"[id]",setup(u){const{id:a}=s().params;return(_,i)=>(r(),e(n,{class:"pa-4"},{default:t(()=>[o("p",null,"User ID: "+c(p(a)),1)]),_:1}))}};export{d as default};
